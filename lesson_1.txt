@@ -1,0 +1,73 @@
+installation
+wsl
+docs
+vscode
+github
+command line
+
+comments
+variables
+tabs
+colons
+functions
+    args/params
+    return
+concatenation
+
+data types
+    int
+    "string"
+    float
+    bool
+    [list]
+    (tuples)
+    {dict}
+
+operators
+    = assignment
+    math
+        + plus
+        - minus
+        / divide
+        * multiply
+        % modulus
+        // int division
+        ** exponent
+        () precedents
+
+    logical
+        == equality
+        != not equal
+        > greater
+        < less
+        <= less or equal
+        >= greater or equal
+    
+not
+and
+or
+
+if
+else
+elif
+
+for
+while
+
+try/except/raise/pass
+
+built ins
+    print()
+    exit()
+    len()
+    print()
+    append()
+    type()
+    open()
+
+f strings
+slice syntax
+module imports
+classes
+inheritance
+
