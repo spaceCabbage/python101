@@ -8,7 +8,6 @@ venv
 pip
 pypi
 
-
 comments
 variables
 syntax/tabs/colons
@@ -108,4 +107,3 @@ concepts
     compiled/interpreted
     database
     objects
-    
