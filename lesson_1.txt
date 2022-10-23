@@ -4,14 +4,19 @@ docs
 vscode
 github
 command line
+venv
+pip
+pypi
+
 
 comments
 variables
-tabs
-colons
+syntax/tabs/colons
+keywords
 functions
     args/params
     return
+methods
 concatenation
 
 data types
@@ -19,7 +24,7 @@ data types
     "string"
     float
     bool
-    [list]
+    [list] /arrays
     (tuples)
     {dict}
 
@@ -71,3 +76,36 @@ classes
 inheritance
 try/except/raise/pass
 
+standard libraries
+    math
+    random
+    re
+    os
+    itertools
+    
+other libraries    
+    pandas
+    numpy
+    datetime
+    matplotlib
+    tkinter
+    orange
+    selenium
+    orange
+    sql alchemy
+    scrappy/beautifulsoup4
+    poetry
+    kivy
+    loguru
+    rich
+    textual
+    requests
+
+concepts
+    apis
+    http requests
+    errors
+    compiled/interpreted
+    database
+    objects
+    
